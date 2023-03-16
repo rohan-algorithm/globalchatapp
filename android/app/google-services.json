@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48630196478",
+    "project_id": "chatapp-1ad8d",
+    "storage_bucket": "chatapp-1ad8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48630196478:android:d7527374381e4135389daf",
+        "android_client_info": {
+          "package_name": "com.nitrohan.globalchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48630196478-rlsoluhde29o3236n42r4cec366o36ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6z7hdbZuFhl9Si9gX8MvpvANY-WlEkhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48630196478-rlsoluhde29o3236n42r4cec366o36ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
